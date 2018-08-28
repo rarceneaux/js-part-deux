@@ -21,8 +21,8 @@
 
 // console.log('hi');
 
-const quote = 'winter is coming';
+// const quote = 'winter is coming';
 
-const newQuote = newQuote.replace(/is/g,"aint");
+// const newQuote = newQuote.replace(/is/g,"aint");
 
-console.log('new quote', new quote);
+// console.log('new quote', new quote);
