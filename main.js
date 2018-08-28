@@ -26,3 +26,11 @@
 // const newQuote = newQuote.replace(/is/g,"aint");
 
 // console.log('new quote', new quote);
+
+const fancyObject = {};
+
+fancyObject.color ='red';
+
+fancyObject['number'] = 10;
+
+console.log("fancyObject" ,);
